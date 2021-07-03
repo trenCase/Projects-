@@ -1,2 +1,2 @@
 # ML
-Implementation and Undestanding of ML Topics
+Implementation and Undestanding of ML & Related Topics
